@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ws": "latest",
+    "q": "latest"
+  }
+}

@@ -1,0 +1,31 @@
+/* responsive styles for laptop */
+@media (max-width:1199px){
+	.container{
+		width: 950px;
+	}
+
+
+
+
+
+}
+/* responsive styles for tablet/ipad */
+@media (max-width:979px){
+	.container{
+		width: 750px;
+	}
+
+
+
+
+}
+/* responsive styles for mobile */
+@media (max-width:767px){
+	.container{
+		width: 100%;
+	}
+
+
+
+
+}
